@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchdriesenga/jest-antother-RPG.git"
+  },
+  "author": "Mitch Driesenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchdriesenga/jest-antother-RPG/issues"
+  },
+  "homepage": "https://github.com/mitchdriesenga/jest-antother-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
